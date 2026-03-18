@@ -1,4 +1,4 @@
-# 📊 Retail Sales Data Analysis using Python
+# 📊 Retail Store Data Analysis using Python
 
 ## 📌 Project Overview
 This project focuses on data cleaning and exploratory data analysis (EDA) on a retail store dataset to understand customer behavior and sales patterns.
